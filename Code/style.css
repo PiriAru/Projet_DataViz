@@ -1,0 +1,41 @@
+/* AXES */
+.axis line{
+    stroke: #706f6f;
+    stroke-width: 0.5;
+    shape-rendering: crispEdges;
+    }
+    
+    /* CONTOUR DES AXES */
+    .axis path {
+    stroke: #706f6f;
+    stroke-width: 0.7;
+    shape-rendering: crispEdges;
+    }
+    
+    /* TEXTE DES AXES */
+    .axis text {
+    fill: #2b2929;
+    font-family: Georgia;
+    font-size: 120%;
+    }
+
+    /* GRAPHIQUE */
+    path {
+        fill: none;
+        stroke: #ed3700;
+    }
+
+    .serie_label {
+        fill: #2b2929;
+        font-family: Georgia;
+        font-size: 80%;
+        }
+    #container{
+        margin-left: 200px;
+    }
+    #heading{
+        text-align: center;
+    }
+    #selectButton{
+        margin-left: 220px;
+    }
