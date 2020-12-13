@@ -11,3 +11,4 @@ La glissière permet de choisir un pays spécifique, ainsi que d'adapter l'éche
 
 Les données se basent sur les données ouvertes de l’administration publique suisse, spécifiquement sur le site opendata.swiss (https://opendata.swiss/fr/dataset/hotels-logiernachte-nach-gasteherkunftsland/resource/6d138f89-cfc9-4dd4-8f12-981863493d06).
 
+![Image aperçu](https://github.com/PiriAru/Projet_DataViz/blob/main/MultilineChart.png)
